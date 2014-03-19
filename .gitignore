@@ -19,3 +19,4 @@ doc/
 
 # project infos
 .project
+*.html
